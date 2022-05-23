@@ -1,4 +1,4 @@
-Note: This is work in progress. All of my projects will be available for public viewing on my Github page until this portfolio is complete.
+Note: This is work in progress. All of my projects will be available for public viewing on my GitHub page until this portfolio is complete.
 
 ## Welcome to GitHub Pages
 
